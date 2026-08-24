@@ -1,4 +1,4 @@
-# Equipe Delta — Escola Delta de Idiomas
+# Equipe Jacaré — Organizador de tarefas para estudantes
 
 Projeto da disciplina **ARA0062 · Desenvolvimento Web em HTML5, CSS, JavaScript
 e PHP** — Centro Universitário Newton Paiva, 2026/2.
@@ -8,22 +8,20 @@ e PHP** — Centro Universitário Newton Paiva, 2026/2.
 
 ## Tema do projeto
 
-Site de uma escola de idiomas de bairro: apresentação, cursos oferecidos com
-valores e um formulário de contato. Um parágrafo basta — diga o que o site é e
-para quem ele serve.
+Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, escolher matérias/categorias, marcar como concluída e filtrar tarefas.
 
 ## Equipe
 
-**Líder:** Daniela Prado Vieira
+**Líder:** Manoela Almeida Sanches Vieira
 
 | Nome completo | Matrícula | GitHub | Papel |
 |---|---|---|---|
-| Ana Beatriz Nogueira | 2026xxxxx | @anabnogueira | integrante |
-| Carlos Eduardo Ramos | 2026xxxxx | @cadu-ramos | integrante |
-| Daniela Prado Vieira | 2026xxxxx | @dani-prado | **líder** |
-| Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
-| Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |
-| Rafael Teixeira Alves | 2026xxxxx | @rafaelalves | integrante |
+| Ana Clara Assunção Freitas | 202603075109 | Anaclarassu | integrante |
+| Gustavo  | 2026xxxxx | @cadu-ramos | integrante |
+| Iann | 2026xxxxx | @dani-prado | integrante |
+| Manoela Almeida Sanches Vieira | 202603057887 | manuxis3 | **líder** |
+| Samuel | 2026xxxxx | @marinaslima | integrante |
+| Vitória| 2026xxxxx | @rafaelalves | integrante |
 
 Cada integrante acrescenta a **sua própria linha** nesta tabela, pelo GitHub.
 Esse é o commit que registra a sua participação.
