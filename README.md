@@ -16,9 +16,9 @@ Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, esc
 
 | Nome completo | Matrícula | GitHub | Papel |
 |---|---|---|---|
-| Ana Clara Assunção Freitas | 202603075109 | Anaclarassu | integrante |
-| Gustavo  | 2026xxxxx | @cadu-ramos | integrante |
-| Iann | 2026xxxxx | @dani-prado | integrante |
+| Ana Clara | 2026xxxxx | seu user | integrante |
+| Gustavo Ferreira Gomes | 202603139451 |gustavotur2018| integrante |
+| Iann Lima Fontoura | 202608373394 | fontouraiann06-lgtm | integrante |
 | Manoela Almeida Sanches Vieira | 202603057887 | manuxis3 | **líder** |
 | Samuel | 2026xxxxx | @marinaslima | integrante |
 | Vitória Camilly Costa Borges da Silva| 202601427695 | viicsilva | integrante |
