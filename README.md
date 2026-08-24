@@ -21,7 +21,7 @@ Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, esc
 | Iann | 2026xxxxx | @dani-prado | integrante |
 | Manoela Almeida Sanches Vieira | 202603057887 | manuxis3 | **líder** |
 | Samuel | 2026xxxxx | @marinaslima | integrante |
-| Vitória| 2026xxxxx | @rafaelalves | integrante |
+| Vitória Camilly Costa Borges da Silva| 202601427695 | viicsilva | integrante |
 
 Cada integrante acrescenta a **sua própria linha** nesta tabela, pelo GitHub.
 Esse é o commit que registra a sua participação.
