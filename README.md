@@ -18,7 +18,7 @@ Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, esc
 |---|---|---|---|
 | Ana Clara | 2026xxxxx | seu user | integrante |
 | Gustavo  | 2026xxxxx | @cadu-ramos | integrante |
-| Iann | 2026xxxxx | @dani-prado | integrante |
+| Iann Lima Fontoura | 202608373394 | fontouraiann06-lgtm | integrante |
 | Manoela Almeida Sanches Vieira | 202603057887 | manuxis3 | **líder** |
 | Samuel | 2026xxxxx | @marinaslima | integrante |
 | Vitória| 2026xxxxx | @rafaelalves | integrante |
