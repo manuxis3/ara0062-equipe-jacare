@@ -20,7 +20,7 @@ Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, esc
 | Gustavo Ferreira Gomes | 202603139451 |gustavotur2018| integrante |
 | Iann Lima Fontoura | 202608373394 | fontouraiann06-lgtm | integrante |
 | Manoela Almeida Sanches Vieira | 202603057887 | manuxis3 | **líder** |
-| Samuel | 2026xxxxx | @marinaslima | integrante |
+| Samuel Duque | 202601757751 | Samuel-Duque-22 | integrante |
 | Vitória Camilly Costa Borges da Silva| 202601427695 | viicsilva | integrante |
 
 Cada integrante acrescenta a **sua própria linha** nesta tabela, pelo GitHub.
