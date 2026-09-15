@@ -8,8 +8,13 @@
         background-color: #fff7ed;
  
       }
-
-
+body {
+        font-family: Arial, helvetica, sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #1b0007;
+        background-color: #fff7ed;
+}
        
       
       
