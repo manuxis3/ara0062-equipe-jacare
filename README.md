@@ -1,5 +1,4 @@
-# Equipe Jacaré — Organizador de tarefas para estudantes
-
+# Equipe Jacaré — Padaria Triguinho
 Projeto da disciplina **ARA0062 · Desenvolvimento Web em HTML5, CSS, JavaScript
 e PHP** — Centro Universitário Newton Paiva, 2026/2.
 
@@ -8,7 +7,7 @@ e PHP** — Centro Universitário Newton Paiva, 2026/2.
 
 ## Tema do projeto
 
-Site organizador de tarefas para estudantes: Criar tarefas, adicionar prazo, escolher matérias/categorias, marcar como concluída e filtrar tarefas.
+Site de uma padaria com intuito de controlar vendas e cadastros de clientes. Sendo o início usado como vitrine para os clientes comprarem ou apenas verem os produtos e alimentos vendidos na padaria.
 
 ## Equipe
 

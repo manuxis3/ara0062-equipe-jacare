@@ -4,3 +4,17 @@
    Ele já está ligado ao index.html pela linha
    <link rel="stylesheet" href="css/estilo.css">
    ========================================================================== */
+ body {
+        background-color: #f5dfc2;
+ 
+      }
+
+
+       
+      
+      
+      
+      
+      nav li {
+        display: inline-block;
+    }
