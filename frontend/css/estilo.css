@@ -15,7 +15,11 @@ body {
         color: #1b0007;
         background-color: #fff7ed;
         h1, h2, h3 {
+        color: #88005b;a
+         {
         color: #88005b;
+        text-decoration: none;
+    }
     }
 }
        
