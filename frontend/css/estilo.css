@@ -5,19 +5,28 @@
    <link rel="stylesheet" href="css/estilo.css">
    ========================================================================== */
  body {
-        background-color: #fff7ed;
+        background-color: #f0ffed;
  
       }
 body {
         font-family: Arial, helvetica, sans-serif;
         font-size: 16px;
         line-height: 1.6;
-        color: #1b0007;
+        color: #1d1003;
         background-color: #fff7ed;
         h1, h2, h3 {
-        color: #88005b;
-    }
-}
+        color: #150b01;
+       }
+max-width: 860px;
+   margin: 0 auto;
+   padding: 0 20px 40px;
+   }
+
+
+
+      
+
+
        
       
       
